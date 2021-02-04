@@ -43,10 +43,38 @@
 
 ### Section 3: Built-in Matchers
 
-
+32. [The not_to Method]()
+33. [Equality Matchers I (eq and eql)]()
+34. [Equality Matchers II (equal and be)]()
+35. [Comparison Matchers]()
+36. [Predicate Matchers]()
+37. [all Matcher]()
+38. [be Matcher (Truthy, Falsy and Nil Values)]()
+39. [change Matcher]()
+40. [contain_exactly Matcher]()
+41. [start_with and end_with Matchers]()
+42. [have_attributes Matcher]()
+43. [include Matcher]()
+44. [raise_error Matcher]()
+45. [respond_to Matcher]()
+46. [satisfy Matcher]()
+47. [not_to Method]()
+48. [Compound Expectations]()
 
 ### Section 4: Mocks
 
-
+49. [Create a Test Double]()
+50. [Set up Our Test Movie]()
+51. [Replacing an Object with a Double]()
+52. [Receive Counts]()
+53. [The allow Method]()
+54. [Matching Arguments]()
+55. [Instance Doubles]()
+56. [Class Doubles]()
+57. [Spies I]()
+58. [Spies II]()
 
 ### Section 5: Conclusion
+
+59. [Conclusion]()
+60. [Bonus!]()
