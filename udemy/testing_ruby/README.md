@@ -34,7 +34,12 @@
 
 ### Section 2: Subjects, Shared Examples, and Shared Context
 
-
+26. [Implicit Subject]()
+27. [Explicit Subject]()
+28. [described_class]()
+29. [One-Liner-Example-Syntax]()
+30. [Shared Examples with include_examples]()
+31. [Shared Context with include_context]()
 
 ### Section 3: Built-in Matchers
 
