@@ -6,8 +6,8 @@
 
 ### Section 1: Introduction
 
-1. [Welcome to RSpec]()
-2. [About Me]()
+1. [Welcome to RSpec](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/1-welcome-to-rspec.md)
+2. About Me
 3. [Unit Tests vs End-to-End (E2E) Tests]()
 4. [Setup rbenv / Ruby on MacOS]()
 5. [Installing RSpec]()
