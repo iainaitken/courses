@@ -8,9 +8,9 @@
 
 1. [Welcome to RSpec](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/1-welcome-to-rspec.md)
 2. About Me
-3. [Unit Tests vs End-to-End (E2E) Tests]()
-4. [Setup rbenv / Ruby on MacOS]()
-5. [Installing RSpec]()
+3. [Unit Tests vs End-to-End (E2E) Tests](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/3-unit-tests-vs-end-to-end-tests.md)
+4. Setup rbenv / Ruby on MacOS
+5. Installing RSpec
 6. [Installing Visual Studio Code for MacOS]()
 7. [Starting a Project with rspec --init]()
 8. [Download Course Files (Optional)]()
