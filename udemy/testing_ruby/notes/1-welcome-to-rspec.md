@@ -1,5 +1,10 @@
 # Welcome to RSpec
 
+## Resources
+
+[Official RSpec website](https://rspec.info/)
+[Github repo for RSpec](https://github.com/rspec/rspec)
+
 ## Notes
 
 RSpec is an open source Ruby testing library. Most popular Ruby Gem in existence, still actively developed.
