@@ -14,14 +14,14 @@
 6. Installing Visual Studio Code for MacOS
 7. [Starting a Project with rspec --init](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/6-starting-a-project-with-rspec.md)
 8. Download Course Files (Optional)
-9. [Test-Driven Development]()
-10. [The describe Method]()
-11. [The it Method]()
-12. [The expect and eq Methods]()
-13. [Reading Failures]()
-14. [Making the Specs Pass]()
-15. [Multiple Examples in Example Group]()
-16. [Fixing Failing Specs Again]()
+9. [Test-Driven Development](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/9-test-driven-development.md)
+10. [The describe Method](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/10-the-describe-method.md)
+11. [The it Method](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/11-the-it-method.md)
+12. [The expect and eq Methods](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/12-the-expect-and-eq-methds.md)
+13. [Reading Failures](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/13-reading-failures.md)
+14. Making the Specs Pass
+15. [Multiple Examples in Example Group](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/15-multiple-examples-in-example-group.md)
+16. Fixing Failing Specs Again
 17. [Reducing Duplication - Before Hooks and Instance Variables]()
 18. [Reducing Duplication: Helper Methods]()
 19. [Problems With Mutation]()
