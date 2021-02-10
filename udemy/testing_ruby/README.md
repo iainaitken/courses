@@ -22,12 +22,12 @@
 14. Making the Specs Pass
 15. [Multiple Examples in Example Group](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/15-multiple-examples-in-example-group.md)
 16. Fixing Failing Specs Again
-17. [Reducing Duplication - Before Hooks and Instance Variables]()
-18. [Reducing Duplication: Helper Methods]()
-19. [Problems With Mutation]()
-20. [Reducing Duplication: The let Method]()
-21. [Custom Error Messages]()
-22. [The context Method and Nested Describes]()
+17. [Reducing Duplication - Before Hooks and Instance Variables](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/17-reducing-duplication-before-hooks-and-instance-variables.md)
+18. [Reducing Duplication: Helper Methods](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/18-reducing-duplication-helper-methods.md)
+19. [Problems With Mutation](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/19-problems-with-mutation.md)
+20. [Reducing Duplication: The let Method](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/20-reducing-duplication-the-let-method.md)
+21. [Custom Error Messages](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/21-custom-error-messages.md)
+22. [The context Method and Nested Describes](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/22-the-context-method-and-nested-describes.md)
 23. [before and after Hooks]()
 24. [Nested Logic: Hooks]()
 25. [Nested Logic: Overwriting Let Variables]()
