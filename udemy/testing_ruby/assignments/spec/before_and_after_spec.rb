@@ -4,7 +4,7 @@ describe 'before and after hooks' do
   end
 
   after(:context) do
-    puts 'before Context'
+    puts 'after Context'
   end
 
   before(:example) do
