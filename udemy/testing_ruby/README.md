@@ -28,53 +28,53 @@
 20. [Reducing Duplication: The let Method](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/20-reducing-duplication-the-let-method.md)
 21. [Custom Error Messages](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/21-custom-error-messages.md)
 22. [The context Method and Nested Describes](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/22-the-context-method-and-nested-describes.md)
-23. [before and after Hooks]()
-24. [Nested Logic: Hooks]()
-25. [Nested Logic: Overwriting Let Variables]()
+23. [before and after Hooks](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/23-before-and-after-hooks.md)
+24. [Nested Logic: Hooks](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/24-nested-logic-hooks.md)
+25. [Nested Logic: Overwriting Let Variables](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/25-nested-logic-overwriting-let-variables.md)
 
 ### Section 2: Subjects, Shared Examples, and Shared Context
 
-26. [Implicit Subject]()
-27. [Explicit Subject]()
-28. [described_class]()
-29. [One-Liner-Example-Syntax]()
-30. [Shared Examples with include_examples]()
-31. [Shared Context with include_context]()
+26. [Implicit Subject]
+27. [Explicit Subject]
+28. [described_class]
+29. [One-Liner-Example-Syntax]
+30. [Shared Examples with include_examples]
+31. [Shared Context with include_context]
 
 ### Section 3: Built-in Matchers
 
-32. [The not_to Method]()
-33. [Equality Matchers I (eq and eql)]()
-34. [Equality Matchers II (equal and be)]()
-35. [Comparison Matchers]()
-36. [Predicate Matchers]()
-37. [all Matcher]()
-38. [be Matcher (Truthy, Falsy and Nil Values)]()
-39. [change Matcher]()
-40. [contain_exactly Matcher]()
-41. [start_with and end_with Matchers]()
-42. [have_attributes Matcher]()
-43. [include Matcher]()
-44. [raise_error Matcher]()
-45. [respond_to Matcher]()
-46. [satisfy Matcher]()
-47. [not_to Method]()
-48. [Compound Expectations]()
+32. [The not_to Method]
+33. [Equality Matchers I (eq and eql)]
+34. [Equality Matchers II (equal and be)]
+35. [Comparison Matchers]
+36. [Predicate Matchers]
+37. [all Matcher]
+38. [be Matcher (Truthy, Falsy and Nil Values)]
+39. [change Matcher]
+40. [contain_exactly Matcher]
+41. [start_with and end_with Matchers]
+42. [have_attributes Matcher]
+43. [include Matcher]
+44. [raise_error Matcher]
+45. [respond_to Matcher]
+46. [satisfy Matcher]
+47. [not_to Method]
+48. [Compound Expectations]
 
 ### Section 4: Mocks
 
-49. [Create a Test Double]()
-50. [Set up Our Test Movie]()
-51. [Replacing an Object with a Double]()
-52. [Receive Counts]()
-53. [The allow Method]()
-54. [Matching Arguments]()
-55. [Instance Doubles]()
-56. [Class Doubles]()
-57. [Spies I]()
-58. [Spies II]()
+49. [Create a Test Double]
+50. [Set up Our Test Movie]
+51. [Replacing an Object with a Double]
+52. [Receive Counts]
+53. [The allow Method]
+54. [Matching Arguments]
+55. [Instance Doubles]
+56. [Class Doubles]
+57. [Spies I]
+58. [Spies II]
 
 ### Section 5: Conclusion
 
-59. [Conclusion]()
-60. [Bonus!]()
+59. [Conclusion]
+60. [Bonus!]
