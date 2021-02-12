@@ -34,9 +34,9 @@
 
 ### Section 2: Subjects, Shared Examples, and Shared Context
 
-26. [Implicit Subject]
-27. [Explicit Subject]
-28. [described_class]
+26. [Implicit Subject](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/26-implicit-subject.md)
+27. [Explicit Subject](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/27-explicit-subject.md)
+28. [described_class](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/28-described-class.md)
 29. [One-Liner-Example-Syntax]
 30. [Shared Examples with include_examples]
 31. [Shared Context with include_context]
