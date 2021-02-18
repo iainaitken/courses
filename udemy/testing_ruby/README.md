@@ -37,15 +37,15 @@
 26. [Implicit Subject](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/26-implicit-subject.md)
 27. [Explicit Subject](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/27-explicit-subject.md)
 28. [described_class](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/28-described-class.md)
-29. [One-Liner-Example-Syntax]
-30. [Shared Examples with include_examples]
-31. [Shared Context with include_context]
+29. [One-Liner-Example-Syntax](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/29-one-liner-example-syntax.md)
+30. [Shared Examples with include_examples](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/30-shared-examples-with-include_examples.md)
+31. [Shared Context with include_context](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/31-shared-context-with-include_context.md)
 
 ### Section 3: Built-in Matchers
 
-32. [The not_to Method]
-33. [Equality Matchers I (eq and eql)]
-34. [Equality Matchers II (equal and be)]
+32. [The not_to Method](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/32-the-not-to-method.md)
+33. [Equality Matchers I (eq and eql)](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/33-equality-matchers-I.md)
+34. [Equality Matchers II (equal and be)](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/34-equality-matchers-II.md)
 35. [Comparison Matchers]
 36. [Predicate Matchers]
 37. [all Matcher]
