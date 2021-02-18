@@ -1,4 +1,4 @@
-# Equality Matchers I - eq and eql
+# Equality Matchers II - equal and be
 
 ## Resources
 
@@ -6,48 +6,30 @@
 
 ## Notes
 
-There are three equality matchers in rspec:
+The equal and be matchers are identical - they are aliases.
 
-* eq
-* eql
-* equal
+This hinges on the concepts of object equality vs object identity.
 
-They all test slightly different things.
+Object equality is about equality of design - do they look the same?
 
-For example, if you were testing whether 3 is equal to 3.0, you might not just be testing the numeric value; you might want to test whether they are the same data type(int vs float).
-
-eq will test for value and ignore type. In the example below, all of the tests will pass:
+If we are checking object identity then we are checking whether they are the same thing - the same object in memory.
 
 ```ruby
-RSpec.describe 'equality matchers' do
-  let(:a) { 3.0 }
-  let(:b) { 3 }
+describe 'equal and be matchers' do
+  let(:c) { [1, 2, 3] }
+  let(:d) { [1, 2, 3] }
+  # here, e is a pointer to c
+  let(:e) { c }
 
-  describe 'eq matcher' do
-    it 'tests for value and ignores type' do
-      expect(a).to eq(3)
-      expect(b).to eq(3.0)
-      expect(a).to eq(b)
-    end
-  end
-end
-```
+  it 'cares about object identity' do
+    expect(c).to eq(d)
+    expect(c).to eql(d)
 
-eql will test for value and datatype. The same tests above, using eql instead of eq, will fail as we are comparing integers to floats.
+    expect(c).to equal(e)
+    expect(c).to be(e)
 
-We can instead use not_to:
-
-```ruby
-RSpec.describe 'equality matchers' do
-  let(:a) { 3.0 }
-  let(:b) { 3 }
-
-  describe 'eql matcher' do
-    it 'tests for both value and type' do
-      expect(a).not_to eql(3)
-      expect(b).not_to eql(3.0)
-      expect(a).not_to eql(b)
-    end
+    expect(c).not_to equal(d)
+    expect(c).not_to equal([1, 2, 3])
   end
 end
 ```
