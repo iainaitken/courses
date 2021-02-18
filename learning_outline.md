@@ -7,6 +7,7 @@
 | [Testing Ruby with RSpec](#testing-ruby-with-rspec) | Become proficient with RSpec |
 | [Clean Code](#clean-code) | Write better code - basic dev skills |
 | [Practical OO Design in Ruby](#practical-object-oriented-design-in-ruby) | Understand OO design and write better code - basic dev skills |
+| [Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/) | |
 | [The Pragmatic Programmer](#the-pragmatic-programmer) | Write better code - basic dev skills |
 | [The elements of computing systems](#the-elements-of-computer-systems) | Understand how computers work - become a better dev |
 | [Effective Testing with RSpec](#effective-testing-with-rspec) | Become very proficient with RSpec and TDD |
@@ -18,7 +19,7 @@ Consider pluralsight, also the awesome resources on github (google awesome githu
 
 Consider regexr.com
 
-Consider further udemy courses
+Consider further udemy courses - UML
 
 ## Courses
 
@@ -53,6 +54,10 @@ Consider further udemy courses
 ### Practical Object-Oriented Design in Ruby
 
 - [ ]  Chapter 1
+
+### Python Bootcamp
+
+
 
 ### The Pragmatic Programmer
 
