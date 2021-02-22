@@ -46,9 +46,9 @@
 32. [The not_to Method](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/32-the-not-to-method.md)
 33. [Equality Matchers I (eq and eql)](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/33-equality-matchers-I.md)
 34. [Equality Matchers II (equal and be)](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/34-equality-matchers-II.md)
-35. [Comparison Matchers]
-36. [Predicate Matchers]
-37. [all Matcher]
+35. [Comparison Matchers](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/35-comparison-matchers.md)
+36. [Predicate Matchers](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/36-predicate-matchers.md)
+37. [all Matcher](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/37-all-matcher.md)
 38. [be Matcher (Truthy, Falsy and Nil Values)]
 39. [change Matcher]
 40. [contain_exactly Matcher]
