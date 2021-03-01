@@ -7,7 +7,7 @@
 ### Section 1: First Step and Introduction
 
 01. Tips
-02. What is HTML
+02. [What is HTML](https://github.com/iainaitken/courses/blob/main/udemy/HTML_CSS_for_beginners/notes/02-what-is-html.md)
 03. Course exercise and video quality
 04. Code Editor
 
