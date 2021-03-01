@@ -19,8 +19,10 @@ Most HTML have closing tags, but some don't, such as:
 <br> (break)
 ```
 
+```html
 <head> is the non-visual part of the page.
 <body> is the visual part of the page.
+```
 
 HTML is saved in html files.
 
