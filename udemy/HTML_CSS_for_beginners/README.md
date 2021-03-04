@@ -13,8 +13,8 @@
 
 ### Section 2: Page Structure
 
-05. First HTML code
-06. Exploring the document
+05. [First HTML code](https://github.com/iainaitken/courses/blob/main/udemy/HTML_CSS_for_beginners/notes/05-first-html-code.md)
+06. [Exploring the document](https://github.com/iainaitken/courses/blob/main/udemy/HTML_CSS_for_beginners/notes/06-exploring-the-document.md)
 07. Headings
 08. Comments, white space and line breaks
 09. Popular HTML tags
