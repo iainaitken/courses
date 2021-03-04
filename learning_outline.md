@@ -5,6 +5,7 @@
 | Course | Notes |
 | ------ | ----- |
 | [Testing Ruby with RSpec](#testing-ruby-with-rspec) | Become proficient with RSpec |
+| [HTML and CSS for beginners](#html-and-css-for-beginners) | Start working with HTML and CSS |
 | [Clean Code](#clean-code) | Write better code - basic dev skills |
 | [Practical OO Design in Ruby](#practical-object-oriented-design-in-ruby) | Understand OO design and write better code - basic dev skills |
 | [Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/) | |
@@ -30,6 +31,16 @@ Consider further udemy courses - UML
 - [ ]  Part 3
 - [ ]  Part 4
 - [ ]  Part 5
+
+### HTML and CSS for Beginners
+
+- [x]  Part 1
+- [ ]  Part 2
+- [ ]  Part 3
+- [ ]  Part 4
+- [ ]  Part 5
+- [ ]  Part 6
+- [ ]  Part 7
 
 ### Clean Code
 
