@@ -1,6 +1,6 @@
 # Testing Ruby With RSpec
 
-[Link to course](udemy.com/course/testing-ruby-with-rspec/learn/lecture/12409324#overview)
+[Link to course](https://www.udemy.com/course/testing-ruby-with-rspec/learn/lecture/12409324#overview)
 
 ## Course Outline
 
