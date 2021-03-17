@@ -49,9 +49,9 @@
 35. [Comparison Matchers](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/35-comparison-matchers.md)
 36. [Predicate Matchers](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/36-predicate-matchers.md)
 37. [all Matcher](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/37-all-matcher.md)
-38. [be Matcher (Truthy, Falsy and Nil Values)]
-39. [change Matcher]
-40. [contain_exactly Matcher]
+38. [be Matcher (Truthy, Falsy and Nil Values)](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/38-be-matcher.md)
+39. [change Matcher](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/39-change-matcher.md)
+40. [contain_exactly Matcher](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/40-contain-exactly-matcher.md)
 41. [start_with and end_with Matchers]
 42. [have_attributes Matcher]
 43. [include Matcher]
