@@ -52,8 +52,8 @@
 38. [be Matcher (Truthy, Falsy and Nil Values)](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/38-be-matcher.md)
 39. [change Matcher](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/39-change-matcher.md)
 40. [contain_exactly Matcher](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/40-contain-exactly-matcher.md)
-41. [start_with and end_with Matchers]
-42. [have_attributes Matcher]
+41. [start_with and end_with Matchers](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/41-start-with-and-end-with-matchers.md)
+42. [have_attributes Matcher](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/42-have-attributes-matcher.md)
 43. [include Matcher]
 44. [raise_error Matcher]
 45. [respond_to Matcher]
