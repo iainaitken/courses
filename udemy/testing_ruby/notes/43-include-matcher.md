@@ -1,3 +1,22 @@
+# Include matcher
+
+## Resources
+
+[RSpec documentation](https://relishapp.com/rspec/rspec-expectations/v/3-8/docs/built-in-matchers/include-matcher)
+
+## Notes
+
+This allows us to check whether an object includes something else, such as:
+
+* Whether a string includes a sub-string
+* Whether an array includes a specific element
+* Whether a hash includes a key/value pair, or just a key or value
+
+That list is not exhaustive. It is more versatile than the contain_exactly matcher.
+
+Note - if passing a hash to the rspec describe method, note that it must be enclosed in (). Checking for key-value pairs can be useful where a hash is dynamically generated.
+
+```ruby
 RSpec.describe 'include matcher' do
   describe 'hot chocolate' do
     it 'checks for substring inclusion' do
@@ -34,3 +53,4 @@ RSpec.describe 'include matcher' do
     it { is_expected.to include(b: 2) }
   end
 end
+```
