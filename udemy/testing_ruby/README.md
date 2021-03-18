@@ -54,7 +54,7 @@
 40. [contain_exactly Matcher](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/40-contain-exactly-matcher.md)
 41. [start_with and end_with Matchers](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/41-start-with-and-end-with-matchers.md)
 42. [have_attributes Matcher](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/42-have-attributes-matcher.md)
-43. [include Matcher]
+43. [include Matcher](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/43-include-matcher.md)
 44. [raise_error Matcher]
 45. [respond_to Matcher]
 46. [satisfy Matcher]
