@@ -1,3 +1,17 @@
+# start_with and end_with matchers
+
+## Resources
+
+[RSpec documentation - start_with](https://relishapp.com/rspec/rspec-expectations/v/3-8/docs/built-in-matchers/start-with-matcher)
+[RSpec documentation - end_with](https://relishapp.com/rspec/rspec-expectations/v/3-8/docs/built-in-matchers/end-with-matcher)
+
+## Notes
+
+These matchers look to see whether a given expression either begins or ends with one or more values, and applies mainly to strings and arrays.
+
+The matchers are case-sensitive:
+
+```ruby
 RSpec.describe 'start with and end with matchers' do
   describe 'caterpillar' do
     # note: setting a string as the top-level describe will cause 'subject' to nbe equal to that string
@@ -39,3 +53,4 @@ RSpec.describe 'start with and end with matchers' do
     it { is_expected.not_to start_with(:a, :c) }
   end
 end
+```
