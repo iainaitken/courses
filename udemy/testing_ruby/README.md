@@ -2,6 +2,8 @@
 
 [Link to course](https://www.udemy.com/course/testing-ruby-with-rspec/learn/lecture/12409324#overview)
 
+[Link to repo](https://github.com/iainaitken/courses/tree/main/udemy/testing_ruby)
+
 ## Course Outline
 
 ### Section 1: Introduction
@@ -55,8 +57,8 @@
 41. [start_with and end_with Matchers](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/41-start-with-and-end-with-matchers.md)
 42. [have_attributes Matcher](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/42-have-attributes-matcher.md)
 43. [include Matcher](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/43-include-matcher.md)
-44. [raise_error Matcher]
-45. [respond_to Matcher]
+44. [raise_error Matcher](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/44-raise-error-matcher.md)
+45. [respond_to Matcher](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/45-respond-to-matcher.md)
 46. [satisfy Matcher]
 47. [not_to Method]
 48. [Compound Expectations]
