@@ -59,9 +59,9 @@
 43. [include Matcher](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/43-include-matcher.md)
 44. [raise_error Matcher](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/44-raise-error-matcher.md)
 45. [respond_to Matcher](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/45-respond-to-matcher.md)
-46. [satisfy Matcher]
-47. [not_to Method]
-48. [Compound Expectations]
+46. [satisfy Matcher](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/46-satisfy-matcher.md)
+47. [not_to Method](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/47-not-to-method.md)
+48. [Compound Expectations](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/48-compound-expectations.md)
 
 ### Section 4: Mocks
 
