@@ -1,3 +1,18 @@
+# Replacing an object with a double
+
+## Resources
+
+[RSpec documentation](https://relishapp.com/rspec/rspec-mocks/v/3-8/docs/basics/expecting-messages)
+
+## Notes
+
+The purpose of using doubles is to separate out dependent classes so that we can test them in isolation.
+
+This is especially useful when your program is resource-intensive. For example, if your program involves asynchronous operations, loads other files, or calls data from a database, this might take time that can be saved by mocking the operation instead.
+
+It also means we can test classes _without actually having written them yet_.
+
+```ruby
 class Actor
   def initialize(name:)
     @name = name
@@ -57,3 +72,4 @@ RSpec.describe Movie do
     end
   end
 end
+```
