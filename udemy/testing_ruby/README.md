@@ -65,7 +65,7 @@
 
 ### Section 4: Mocks
 
-49. [Create a Test Double]
+49. [Create a Test Double](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/49-create-a-test-double.md)
 50. [Set up Our Test Movie]
 51. [Replacing an Object with a Double]
 52. [Receive Counts]
