@@ -33,6 +33,7 @@ attr_reader :actor
       actor.act
       actor.fall_off_ladder
       actor.set_on_fire
+      actor.act
     end
   end
 end
@@ -48,11 +49,13 @@ RSpec.describe Movie do
 
   describe '#start_shooting' do
     it 'expects an actor to do three actions' do
-      expect(stuntman).to receive(:ready?)
-      expect(stuntman).to receive(:act)
-      expect(stuntman).to receive(:fall_off_ladder)
-      expect(stuntman).to receive(:set_on_fire)
+      # expect(stuntman).to receive(:set_on_fire).once
+      # expect(stuntman).to receive(:set_on_fire).exactly(1).times
+      expect(stuntman).to receive(:set_on_fire).at_most(1).times
 
+      # expect(stuntman).to receive(:act).twice
+      # expect(stuntman).to receive(:act).exactly(2).times
+      expect(stuntman).to receive(:act).at_least(2).times
       subject.start_shooting
     end
   end
