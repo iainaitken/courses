@@ -68,15 +68,15 @@
 49. [Create a Test Double](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/49-create-a-test-double.md)
 50. Set up Our Test Movie
 51. [Replacing an Object with a Double](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/51-replacing-an-object-with-a-double.md)
-52. [Receive Counts]
-53. [The allow Method]
-54. [Matching Arguments]
-55. [Instance Doubles]
-56. [Class Doubles]
-57. [Spies I]
-58. [Spies II]
+52. [Receive Counts](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/52-receive-counts.md)
+53. [The allow Method](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/53-the-allow-method.md)
+54. [Matching Arguments](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/54-matching-arguments.md)
+55. [Instance Doubles](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/55-instance-doubles.md)
+56. [Class Doubles](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/56-class-doubles.md)
+57. [Spies I](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/57-spies-I.md)
+58. [Spies II](https://github.com/iainaitken/courses/blob/main/udemy/testing_ruby/notes/58-spies-II.md)
 
 ### Section 5: Conclusion
 
-59. [Conclusion]
-60. [Bonus!]
+59. Conclusion
+60. Bonus!
