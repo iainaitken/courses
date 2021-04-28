@@ -1,4 +1,4 @@
-# Popular Tags
+# Clickable Images
 
 ## Notes
 

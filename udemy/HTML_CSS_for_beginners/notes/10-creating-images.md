@@ -1,4 +1,4 @@
-# Popular Tags
+# Creating Images
 
 ## Notes
 
