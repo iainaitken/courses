@@ -15,15 +15,15 @@
 
 05. [First HTML code](https://github.com/iainaitken/courses/blob/main/udemy/HTML_CSS_for_beginners/notes/05-first-html-code.md)
 06. [Exploring the document](https://github.com/iainaitken/courses/blob/main/udemy/HTML_CSS_for_beginners/notes/06-exploring-the-document.md)
-07. Headings
-08. Comments, white space and line breaks
-09. Popular HTML tags
-10. Creating images
-11. Creating links
-12. Clickable images
-13. Tables
-14. Forms
-15. Lists
+07. [Headings](https://github.com/iainaitken/courses/blob/main/udemy/HTML_CSS_for_beginners/notes/07-headings.md)
+08. [Comments, white space and line breaks](https://github.com/iainaitken/courses/blob/main/udemy/HTML_CSS_for_beginners/notes/08-comments-white-space-and-line-breaks.md)
+09. [Popular HTML tags](https://github.com/iainaitken/courses/blob/main/udemy/HTML_CSS_for_beginners/notes/09-popular-tags.md)
+10. [Creating images](https://github.com/iainaitken/courses/blob/main/udemy/HTML_CSS_for_beginners/notes/10-creating-images.md)
+11. [Creating links](https://github.com/iainaitken/courses/blob/main/udemy/HTML_CSS_for_beginners/notes/11-creating-links.md)
+12. [Clickable images](https://github.com/iainaitken/courses/blob/main/udemy/HTML_CSS_for_beginners/notes/12-clickable-images.md)
+13. [Tables](https://github.com/iainaitken/courses/blob/main/udemy/HTML_CSS_for_beginners/notes/13-tables.md)
+14. [Forms](https://github.com/iainaitken/courses/blob/main/udemy/HTML_CSS_for_beginners/notes/14-forms.md)
+15. [Lists](https://github.com/iainaitken/courses/blob/main/udemy/HTML_CSS_for_beginners/notes/15-lists.md)
 16. The Rest of the HTML tags
 
 ### Section 3: CSS
