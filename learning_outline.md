@@ -35,7 +35,7 @@ Consider further udemy courses - UML
 ### HTML and CSS for Beginners
 
 - [x]  Part 1
-- [ ]  Part 2
+- [x]  Part 2
 - [ ]  Part 3
 - [ ]  Part 4
 - [ ]  Part 5
