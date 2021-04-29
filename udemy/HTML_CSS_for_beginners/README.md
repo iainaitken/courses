@@ -28,12 +28,12 @@
 
 ### Section 3: CSS
 
-17. Inline style
-18. Internal style
-19. External style
-20. Selectors
-21. Id's and Classes
-22. Linking Javascript
+17. [Inline style](https://github.com/iainaitken/courses/blob/main/udemy/HTML_CSS_for_beginners/notes/17-inline-styles.md)
+18. [Internal style](https://github.com/iainaitken/courses/blob/main/udemy/HTML_CSS_for_beginners/notes/18-internal-styles.md)
+19. [External style](https://github.com/iainaitken/courses/blob/main/udemy/HTML_CSS_for_beginners/notes/19-external-styles.md)
+20. [Selectors](https://github.com/iainaitken/courses/blob/main/udemy/HTML_CSS_for_beginners/notes/20-selectors.md)
+21. [Ids and Classes](https://github.com/iainaitken/courses/blob/main/udemy/HTML_CSS_for_beginners/notes/21-ids-and-classes.md)
+22. [Linking Javascript](https://github.com/iainaitken/courses/blob/main/udemy/HTML_CSS_for_beginners/notes/22-linking-javascript.md)
 23. Common Styling Properties
 
 ### Section 4: More CSS Examples

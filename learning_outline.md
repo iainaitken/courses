@@ -36,7 +36,7 @@ Consider further udemy courses - UML
 
 - [x]  Part 1
 - [x]  Part 2
-- [ ]  Part 3
+- [x]  Part 3
 - [ ]  Part 4
 - [ ]  Part 5
 - [ ]  Part 6
