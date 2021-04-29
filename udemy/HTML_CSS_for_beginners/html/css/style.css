@@ -1,5 +1,17 @@
-p {
+/* p {
   color:red;
   font-size:25px;
   font-weight:bold;
+} */
+
+p, h1, h2 {
+  color:blue;
+}
+
+body {
+  background:yellow;
+}
+
+div p {
+  color:red;
 }
