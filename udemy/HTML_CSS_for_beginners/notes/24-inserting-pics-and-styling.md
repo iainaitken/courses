@@ -1,4 +1,4 @@
-# Linking Javascript
+# Inserting Pictures and Styling
 
 ## Notes
 
