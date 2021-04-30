@@ -1,0 +1,18 @@
+#page-title {
+  text-align: center;
+}
+
+#container {
+  border: 2px solid red;
+  border-radius: 10px;
+  width: 400px;
+  margin: auto;
+  padding: 20px;
+  background: yellow;
+}
+
+#image {
+  width: 100%;
+  border: 2px solid red;
+  border-radius: 10px;
+}
