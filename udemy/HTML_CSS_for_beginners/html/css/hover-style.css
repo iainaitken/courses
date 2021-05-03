@@ -1,0 +1,14 @@
+#hovers {
+  width: 200px;
+  height: 200px;
+  border: 2px solid black;
+}
+
+#hovers h2 {
+  text-align: center;
+}
+
+#hovers:hover {
+  background-color: red;
+  border: 10px solid blue;
+}
