@@ -40,7 +40,7 @@
 
 24. Inserting Pictures and styling
 25. Inserting pictures via CSS
-26. Hover Effect
+26. [Hover Effect](https://github.com/iainaitken/courses/blob/main/udemy/HTML_CSS_for_beginners/notes/26-hover-effect.md)
 27. Where to go next (important)  
 
 ### Section 5: Let's Build a Website
