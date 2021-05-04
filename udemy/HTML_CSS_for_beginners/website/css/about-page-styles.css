@@ -1,0 +1,14 @@
+#about-image img {
+  width: 70%;
+  float: left;
+}
+
+#profile-info {
+  float: right;
+  width: 20%;
+  margin: 5px;
+}
+
+.description {
+  clear: both;
+}
