@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Contact</title>
 
+  <link rel="stylesheet" href="css/contact-page-styles.css">
   <link rel="stylesheet" href="css/global-styles.css">
   <script src="js/scripts.js"></script>
 </head>
@@ -23,7 +24,29 @@
       <h1>Side Bar</h1>
     </aside>
     <article class="main">
-      
+      <h1>Contact</h1>
+      <div id="form">
+        <form action="process.php">
+          <p>
+            <label for="name">Name:</label>
+            <input type="text" name="name" placeholder="Your name">
+          </p>
+          <p>
+            <label for="email">Email:</label>
+            <input type="email" name="email" placeholder="Your email address">
+          </p>
+          <p>
+            <label for="subject">Subject:</label>
+            <input type="text" name="subject" placeholder="Enter a message subject">
+          </p>
+          <p>
+            <textarea name="message" id="" placeholder="Type your message here" cols="30" rows="10"></textarea>
+          </p>
+          <p>
+            <input type="submit" value="Send Message" id="submit-button">
+          </p>
+        </form>
+      </div>
     </article>
     <footer>
       &copy; 2021 Design by <a href="https://github.com/iainaitken/CV">Iain Aitken</a>

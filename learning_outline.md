@@ -39,8 +39,36 @@ Consider further udemy courses - UML
 - [x]  Part 3
 - [x]  Part 4
 - [x]  Part 5
-- [ ]  Part 6
+- [x]  Part 6
 - [ ]  Part 7
+
+### Complete JavaScript 2021 - From Zero to Expert
+
+- [ ]  Section 1
+- [ ]  Section 2
+- [ ]  Section 3
+- [ ]  Section 4
+- [ ]  Section 5
+- [ ]  Section 6
+- [ ]  Section 7
+- [ ]  Section 8
+- [ ]  Section 9
+- [ ]  Section 10
+- [ ]  Section 11
+- [ ]  Section 12
+- [ ]  Section 13
+- [ ]  Section 14
+- [ ]  Section 15
+- [ ]  Section 16
+- [ ]  Section 17
+- [ ]  Section 18
+- [ ]  Section 19
+- [ ]  Section 20
+- [ ]  Section 21
+
+### The Complete Regular Expressions Course for Beginners
+
+
 
 ### Clean Code
 

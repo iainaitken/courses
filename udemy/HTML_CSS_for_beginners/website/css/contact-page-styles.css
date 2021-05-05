@@ -1,0 +1,22 @@
+#form {
+  width: 70%;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px 10px 10px 10px;
+}
+
+input {
+  width: 95%;
+  border-radius: 5px;
+  height: 25px;
+}
+
+textarea {
+  border-radius: 5px;
+  width: 95%;
+}
+
+#submit-button {
+  width: 30%;
+  background-color: #89B0AE;
+}
