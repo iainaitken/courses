@@ -40,7 +40,7 @@ Consider further udemy courses - UML
 - [x]  Part 4
 - [x]  Part 5
 - [x]  Part 6
-- [ ]  Part 7
+- [x]  Part 7
 
 ### Complete JavaScript 2021 - From Zero to Expert
 
