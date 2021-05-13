@@ -2,6 +2,10 @@
 
 [Link to course](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22628657#overview)
 
+[Resources Page](http://codingheroes.io/resources/)
+
+[GitHub Repo](https://github.com/jonasschmedtmann/complete-javascript-course)
+
 ## Course Outline
 
 ### Section 1: Welcome, Welcome, Welcome!
