@@ -28,7 +28,7 @@
 13. [let, const and var](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/013-let-const-and-var.md)
 14. [Basic Operators](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/014-basic-operators.md)
 15. [Operator Precedence](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/015-operator-precedence.md)
-16. Coding Challenge #2.1
+16. [Coding Challenge #2.1](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/016-coding-challenge.md)
 17. Strings and Template Literals
 18. Taking Decisions: if/else Statements
 19. Coding Challenge #2.2
