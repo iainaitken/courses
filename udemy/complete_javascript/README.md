@@ -25,8 +25,8 @@
 10. [Values and Variables](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/010-values-and-variables.md)
 11. Practice Assignments
 12. [Data Types](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/012-data-types.md)
-13. let, const and var
-14. Basic Operators
+13. [let, const and var](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/013-let-const-and-var.md)
+14. [Basic Operators](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/014-basic-operators.md)
 15. Operator Precedence
 16. Coding Challenge #2.1
 17. Strings and Template Literals
