@@ -11,7 +11,7 @@
 ### Section 1: Welcome, Welcome, Welcome!
 
 01.  Course Structure and Projects
-02.  Watch Before You Start!
+02.  [Watch Before You Start!](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/002-watch-before-you-start.md)
 03.  Read Before You Start!
 04.  Migration Guide to v2 + Old Course
 05.  Setting Up Our Code Editor
@@ -19,8 +19,8 @@
 ### Section 2: JavaScript Fundamentals: Part 1
 
 06. Section Intro
-07. Hello World!
-08. A Brief Introduction to JavaScript
+07. [Hello World!](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/007-hello-world.md)
+08. [A Brief Introduction to JavaScript](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/008-introduction-to-javascript.md)
 09. Linking a JavaScript File
 10. Values and Variables
 11. Practice Assignments
