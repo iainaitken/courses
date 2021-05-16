@@ -1,4 +1,40 @@
-console.log('Lesson');
+console.log('--------Lesson--------');
+
+const currentYear = 2021
+
+const ageIain = currentYear - 1980;
+const ageSarah = currentYear - 1985;
+
+console.log(ageIain, ageSarah);
+
+console.log(ageIain * 2, ageIain / 10);
+
+console.log(2 ** 5);
+
+const firstName = "Iain";
+const lastName = "Aitken";
+
+console.log(firstName + " " + lastName);
+
+let x = 10 + 5;
+
+console.log(x);
+
+x += 10;
+
+console.log(x);
+
+x *= 4;
+
+console.log(x);
+
+x++;
+
+console.log(x);
+
+console.log(ageIain > ageSarah);
+
+/*
 
 let age = 30;
 age = 31;
@@ -7,8 +43,6 @@ const birthYear = 1980;
 
 var job = 'solicitor';
 job = 'programmer';
-
-/*
 
 let javascriptIsFun = true;
 console.log(javascriptIsFun);
