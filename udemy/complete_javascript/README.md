@@ -21,10 +21,10 @@
 06. Section Intro
 07. [Hello World!](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/007-hello-world.md)
 08. [A Brief Introduction to JavaScript](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/008-introduction-to-javascript.md)
-09. Linking a JavaScript File
-10. Values and Variables
+09. [Linking a JavaScript File](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/009-linking-a-javascript-file.md)
+10. [Values and Variables](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/010-values-and-variables.md)
 11. Practice Assignments
-12. Data Types
+12. [Data Types](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/012-data-types.md)
 13. let, const and var
 14. Basic Operators
 15. Operator Precedence
