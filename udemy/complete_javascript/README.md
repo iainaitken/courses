@@ -11,7 +11,7 @@
 ### Section 1: Welcome, Welcome, Welcome!
 
 01.  Course Structure and Projects
-02.  [Watch Before You Start!](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/002-watch-before-you-start.md)
+02.  [Watch Before You Start!](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-1/002-watch-before-you-start.md)
 03.  Read Before You Start!
 04.  Migration Guide to v2 + Old Course
 05.  Setting Up Our Code Editor
@@ -19,15 +19,15 @@
 ### Section 2: JavaScript Fundamentals: Part 1
 
 06. Section Intro
-07. [Hello World!](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/007-hello-world.md)
-08. [A Brief Introduction to JavaScript](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/008-introduction-to-javascript.md)
-09. [Linking a JavaScript File](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/009-linking-a-javascript-file.md)
-10. [Values and Variables](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/010-values-and-variables.md)
+07. [Hello World!](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/007-hello-world.md)
+08. [A Brief Introduction to JavaScript](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/008-introduction-to-javascript.md)
+09. [Linking a JavaScript File](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/009-linking-a-javascript-file.md)
+10. [Values and Variables](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/010-values-and-variables.md)
 11. Practice Assignments
-12. [Data Types](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/012-data-types.md)
-13. [let, const and var](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/013-let-const-and-var.md)
-14. [Basic Operators](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/014-basic-operators.md)
-15. Operator Precedence
+12. [Data Types](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/012-data-types.md)
+13. [let, const and var](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/013-let-const-and-var.md)
+14. [Basic Operators](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/014-basic-operators.md)
+15. [Operator Precedence](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/015-operator-precedence.md)
 16. Coding Challenge #2.1
 17. Strings and Template Literals
 18. Taking Decisions: if/else Statements
