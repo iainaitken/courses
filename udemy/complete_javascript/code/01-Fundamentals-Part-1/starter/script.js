@@ -5,6 +5,24 @@ const currentYear = 2021
 const ageIain = currentYear - 1980;
 const ageSarah = currentYear - 1985;
 
+console.log(currentYear - 1980 > currentYear - 1985);
+
+console.log(25 - 10 - 5);
+
+let x, y;
+x = y = 25 - 10 - 5;
+console.log(x, y);
+
+const averageAge = (ageIain + ageSarah) / 2;
+console.log(ageIain, ageSarah, averageAge);
+
+/*
+
+const currentYear = 2021
+
+const ageIain = currentYear - 1980;
+const ageSarah = currentYear - 1985;
+
 console.log(ageIain, ageSarah);
 
 console.log(ageIain * 2, ageIain / 10);
@@ -33,8 +51,6 @@ x++;
 console.log(x);
 
 console.log(ageIain > ageSarah);
-
-/*
 
 let age = 30;
 age = 31;
