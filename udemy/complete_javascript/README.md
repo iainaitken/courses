@@ -29,12 +29,12 @@
 14. [Basic Operators](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/014-basic-operators.md)
 15. [Operator Precedence](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/015-operator-precedence.md)
 16. [Coding Challenge #2.1](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/016-coding-challenge.md)
-17. Strings and Template Literals
-18. Taking Decisions: if/else Statements
-19. Coding Challenge #2.2
-20. Type Conversion and Coercion
-21. Truthy and Falsy Values
-22. Equality Operators: == vs ===
+17. [Strings and Template Literals](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/017-strings-and-template-literals.md)
+18. [Taking Decisions: if/else Statements](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/018-if-else-statements.md)
+19. [Coding Challenge #2.2](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/019-coding-challenge.md)
+20. [Type Conversion and Coercion](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/020-type-conversion-and-coercion.md)
+21. [Truthy and Falsy Values](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/021-truthy-and-falsy-values.md)
+22. [Equality Operators: == vs ===](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/022-equality-operators.md)
 23. Boolean Logic
 24. Logical Operators
 25. Coding Challenge #2.3
