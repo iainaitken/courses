@@ -1,5 +1,53 @@
 console.log('--------Lesson--------');
 
+const day = 'Monday';
+
+switch(day) {
+  case 'Monday':
+    console.log('JS course');
+    console.log('Go for a walk');
+    break;
+  case 'Tuesday':
+    console.log('Update CV');
+    break;
+  case 'Wednesday':
+    console.log('Finish mini projects');
+    break;
+  case 'Thursday':
+  case 'Friday':
+    console.log('Apply for jobs');
+    break;
+  case 'Saturday':
+    console.log('Country Walk');
+    break;
+  case 'Sunday':
+    console.log('Chill');
+    break;
+  default:
+    console.log('Not a vaild day');
+}
+
+// Here is the above switch statement, as if/else statements
+
+if (day === 'Monday') {
+  console.log('JS course');
+  console.log('Go for a walk');
+} else if (day === 'Tuesday') {
+  console.log('Update CV');
+} else if (day === 'Wednesday') {
+  console.log('Finish mini projects');
+} else if (day === 'Thursday' || day === 'Friday') {
+  console.log('Apply for jobs');
+} else if (day === 'Saturday') {
+  console.log('Country Walk');
+} else if (day === 'Sunday') {
+  console.log('Chill');
+} else {
+  console.log('Not a vaild day');
+}
+
+/*
+
 const hasDriversLicence = true;
 const hasGoodVision = true;
 
@@ -20,8 +68,6 @@ if (hasDriversLicence && hasGoodVision && !isTired) {
 } else {
   console.log('Someone else should drive');
 }
-
-/*
 
 const age = 18;
 

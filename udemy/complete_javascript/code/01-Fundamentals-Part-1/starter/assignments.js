@@ -58,3 +58,25 @@ if (language === 'English' && population < 50000000 && isIsland === false) {
 } else {
   console.log(`${country} does not meet your criteria`);
 }
+
+switch(language) {
+  case 'Chinese':
+  case 'Mandarin':
+    console.log('Most number of native speakers');
+    break;
+  case 'Spanish':
+    console.log('2nd place in number of native speakers');
+    break;
+  case 'English':
+    console.log('3rd place in number of native speakers');
+    break;
+  case 'Hindi':
+    console.log('4th place in number of native speakers');
+    break;
+  case 'Arabic':
+    console.log('5th most spoken language');
+    break;
+  default:
+    console.log('Great language too!');
+    break;
+}
