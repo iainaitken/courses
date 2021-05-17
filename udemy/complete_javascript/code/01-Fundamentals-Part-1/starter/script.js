@@ -1,5 +1,28 @@
 console.log('--------Lesson--------');
 
+const firstName = "Iain";
+const job = "programmer";
+const birthYear = 1980;
+const year = 2021;
+
+const iain = "I'm " + firstName + ", a " + (year - birthYear) + " year old " + job + "!";
+
+console.log(iain);
+
+const iainNew = `I'm ${firstName}, a ${year - birthYear} year old ${job}!`;
+
+console.log(iainNew);
+
+console.log("String with \n\
+multiple \n\
+lines");
+
+console.log(`String with
+multiple
+lines`);
+
+/*
+
 const currentYear = 2021
 
 const ageIain = currentYear - 1980;
@@ -15,8 +38,6 @@ console.log(x, y);
 
 const averageAge = (ageIain + ageSarah) / 2;
 console.log(ageIain, ageSarah, averageAge);
-
-/*
 
 const currentYear = 2021
 
