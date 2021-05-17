@@ -1,5 +1,33 @@
 console.log('--------Lesson--------');
 
+console.log(Boolean(0));
+console.log(Boolean(undefined));
+console.log(Boolean(''));
+console.log(Boolean(null));
+console.log(Boolean(NaN));
+
+console.log(Boolean('true'));
+console.log(Boolean('false'));
+console.log(Boolean(14));
+console.log(Boolean({}));
+
+const money = 30;
+if (money) {
+  console.log("Spend it!!!");
+} else {
+  console.log("Get a job, you bum!");
+}
+
+let exist;
+
+if (exist) {
+  console.log("Exist is defined");
+} else {
+  console.log('Exist is undefined!');
+}
+
+/*
+
 const inputYear = '1991';
 console.log(Number(inputYear), inputYear);
 console.log(Number(inputYear) + 18);
@@ -13,8 +41,6 @@ console.log('23' / '2');
 console.log('23' * '3');
 
 console.log('23' > '20');
-
-/*
 
 const age = 15;
 
