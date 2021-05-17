@@ -1,5 +1,19 @@
 console.log('--------Lesson--------');
 
+const age = 18;
+
+if (age === 18) console.log('You just became an adult 🎊');
+
+const favourite = Number(prompt("What's your favourite number?"));
+console.log(favourite);
+console.log(typeof favourite);
+
+if (favourite === 21) {
+  console.log('21 is an amazing number!!');
+}
+
+/*
+
 console.log(Boolean(0));
 console.log(Boolean(undefined));
 console.log(Boolean(''));
@@ -25,8 +39,6 @@ if (exist) {
 } else {
   console.log('Exist is undefined!');
 }
-
-/*
 
 const inputYear = '1991';
 console.log(Number(inputYear), inputYear);
