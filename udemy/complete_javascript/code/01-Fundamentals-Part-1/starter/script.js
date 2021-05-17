@@ -1,5 +1,27 @@
 console.log('--------Lesson--------');
 
+const age = 15;
+
+if(age >= 18) {
+  console.log("Sarah can obtain a driving licence 🚗")
+} else {
+  const yearsLeft = 18 - age
+  console.log(`Sarah is not old enough to obtain a driving licence, she must wait another ${yearsLeft} years 😭`)
+}
+
+const birthYear = 1980;
+
+let century;
+
+if (birthYear <= 2000) {
+  century = 20;
+} else {
+  century = 21;
+}
+
+console.log(century);
+/*
+
 const firstName = "Iain";
 const job = "programmer";
 const birthYear = 1980;
@@ -20,8 +42,6 @@ lines");
 console.log(`String with
 multiple
 lines`);
-
-/*
 
 const currentYear = 2021
 
