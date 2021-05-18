@@ -38,11 +38,11 @@
 23. [Boolean Logic](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/023-boolean-logic.md)
 24. [Logical Operators](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/024-logical-operators.md)
 25. [Coding Challenge #2.3](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/025-coding-challenge.md)
-26. The switch Statement
-27. Statements and Expressions
-28. The Conditional (Ternary) Operator
-29. Coding Challenge #2.4
-30. JavaScript Releases: ES5, ES6+ and ESNext
+26. [The switch Statement](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/026-the-switch-statement.md)
+27. [Statements and Expressions](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/027-statements-and-expressions.md)
+28. [The Conditional (Ternary) Operator](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/028-the-ternary-operator.md)
+29. [Coding Challenge #2.4](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/029-coding-challenge.md)
+30. [JavaScript Releases: ES5, ES6+ and ESNext](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/029-coding-challenge.md)
 
 ### Section 3: JavaScript Fundamentals: Part 2
 
