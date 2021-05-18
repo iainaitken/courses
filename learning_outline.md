@@ -92,7 +92,7 @@ Consider further udemy courses - UML
 
 ### Practical Object-Oriented Design in Ruby
 
-- [ ]  Chapter 1
+- [x]  Chapter 1
 - [ ]  Chapter 2
 - [ ]  Chapter 3
 - [ ]  Chapter 4
