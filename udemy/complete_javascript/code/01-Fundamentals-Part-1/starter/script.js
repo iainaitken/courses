@@ -1,5 +1,17 @@
 console.log('--------Lesson--------');
 
+const age = 23;
+
+age >= 18 ? console.log('I like to drink wine 🍷') : console.log('No wine for you');
+
+console.log(`Sarah ${age >= 18 ? 'is' : 'is not'} old enough to drink alcohol`);
+
+const drink = age >= 18 ? 'wine 🍷' : 'water 🚰'
+
+console.log(`I like to drink ${drink}`);
+
+/*
+
 const day = 'Monday';
 
 switch(day) {
@@ -45,8 +57,6 @@ if (day === 'Monday') {
 } else {
   console.log('Not a vaild day');
 }
-
-/*
 
 const hasDriversLicence = true;
 const hasGoodVision = true;
