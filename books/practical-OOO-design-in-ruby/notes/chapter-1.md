@@ -82,7 +82,7 @@ Object-oriented applications are made up of objects and the messages that pass b
 * Each object hides its data from the world (encapsulation).
 * Ruby works by providing ways for objects to send messages to each other. It is the object's job to understand those messages.
 * A class is a blueprint for creating similar objects. Classes define methods and attributes, and methods are invoked in response to messages.
-* Classes are themselves objects. For example, "text" is a string, which is an object of the String class. A "String" is an object of the "Class" class. 
+* Classes are themselves objects. For example, "text" is a string, which is an object of the String class. A "String" is an object of the "Class" class.
 
 Compare to procedural languages:
 
