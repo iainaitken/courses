@@ -50,9 +50,9 @@ The most straightforward assignment operator is the equals sign (=). Others incl
 
 We use comparison operators to produce Boolean values. These include:
 
-* >
+* ">"
 * <
-* >=
+* ">="
 * <=
 * ==
 * ===
