@@ -2,6 +2,10 @@
 
 console.log('------------Lesson------------');
 
+
+
+/*
+
 const calcAge = function(birthYear) {
   return 2021 - birthYear;
 }
@@ -21,8 +25,6 @@ const yearsUntilRetirement = function (birthYear, firstName) {
 console.log(yearsUntilRetirement(1980, 'Iain'));
 console.log(yearsUntilRetirement(1948, 'Bill'));
 console.log(yearsUntilRetirement(1956, 'Bob'));
-
-/*
 
 function cutFruitPieces(fruit) {
   return fruit * 4;
