@@ -1,3 +1,5 @@
+'use strict';
+
 console.log('----------Assignments----------');
 
 // Functions
@@ -54,3 +56,14 @@ const canada3 = percentageOfWorld3(38);
 console.log(uk3);
 console.log(nigeria3);
 console.log(canada3);
+
+// Functions within Functions
+
+function describePopulation(country, population) {
+  const percentage = percentageOfWorld1(population);
+  return `${country} has ${population} million people, which is about ${percentage} of the world.`
+}
+
+console.log(describePopulation('The UK', 67));
+console.log(describePopulation('India', 1366));
+console.log(describePopulation('Vatican City', 0.000825));

@@ -2,6 +2,20 @@
 
 console.log('------------Lesson------------');
 
+function cutFruitPieces(fruit) {
+  return fruit * 4;
+}
+
+function fruitProcessor(noOfApples, noOfOranges) {
+  const applePieces = cutFruitPieces(noOfApples);
+  const orangePieces = cutFruitPieces(noOfOranges)
+  const juice = `Juice with ${applePieces} pieces of apple and ${orangePieces} pieces of orange.`;
+  return juice;
+}
+console.log(fruitProcessor(2, 3));
+
+/*
+
 // Function Expression
 
 const calcAge2 = function (birthYear) {
@@ -21,8 +35,6 @@ const yearsUntilRetirement = (birthYear, firstName) => {
 }
 
 console.log(yearsUntilRetirement(1980, 'Iain'));
-
-/*
 
 // function declaration
 
