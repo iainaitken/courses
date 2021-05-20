@@ -16,7 +16,7 @@ function functionName() {
 }
 ```
 
-All the code within the curly braces is known as the function buddy, and all of it is run when we call the function.
+All the code within the curly braces is known as the function body, and all of it is run when we call the function.
 
 Functions can be used to receive and return data that we can use elsewhere in the program.
 
