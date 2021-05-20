@@ -9,7 +9,7 @@ There are 5 falsy values in JS:
 * NaN
 * null
 * 0
-* ''
+* '' (empty string)
 * undefined
 
 False is already false, so does not need to be considered in the list of falsy values.
