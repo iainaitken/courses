@@ -42,3 +42,15 @@ const canada2 = percentageOfWorld2(38);
 console.log(uk2);
 console.log(nigeria2);
 console.log(canada2);
+
+// Arrow Functions
+
+const percentageOfWorld3 = population => (population / 7900) * 100;
+
+const uk3 = percentageOfWorld3(67);
+const nigeria3 = percentageOfWorld3(201);
+const canada3 = percentageOfWorld3(38);
+
+console.log(uk3);
+console.log(nigeria3);
+console.log(canada3);

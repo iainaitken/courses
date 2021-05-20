@@ -2,6 +2,28 @@
 
 console.log('------------Lesson------------');
 
+// Function Expression
+
+const calcAge2 = function (birthYear) {
+  return 2021 - birthYear;
+}
+
+// Arrow functions
+
+const calcAge3 = birthYear => 2037 - birthYear;
+const age3 = calcAge3(1980);
+console.log(age3);
+
+const yearsUntilRetirement = (birthYear, firstName) => {
+  const age = 2021 - birthYear;
+  const retirement = 65 - age;
+  return `${firstName} retires in ${retirement} years.`;
+}
+
+console.log(yearsUntilRetirement(1980, 'Iain'));
+
+/*
+
 // function declaration
 
 function calcAge1(birthYear) {
@@ -19,8 +41,6 @@ const calcAge2 = function (birthYear) {
 
 const age2 = calcAge2(1992);
 console.log(age2);
-
-/*
 
 function logger() {
   console.log('My name is Iain');
