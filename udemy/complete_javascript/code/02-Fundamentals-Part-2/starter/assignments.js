@@ -67,3 +67,15 @@ function describePopulation(country, population) {
 console.log(describePopulation('The UK', 67));
 console.log(describePopulation('India', 1366));
 console.log(describePopulation('Vatican City', 0.000825));
+
+// Introduction to Arrays
+
+const populations = new Array(67, 201, 38, 58);
+console.log(populations.length === 4);
+const percentages = [
+  percentageOfWorld1(67),
+  percentageOfWorld1(201),
+  percentageOfWorld1(38),
+  percentageOfWorld1(58)
+];
+console.log(percentages);

@@ -2,7 +2,45 @@
 
 console.log('------------Lesson------------');
 
+const friends = ['Dan', 'Steven', 'Peter'];
+console.log(friends);
 
+const years = new Array(1991, 1992, 1993, 1995, 2001);
+console.log(years);
+
+console.log(friends[0]);
+console.log(friends[2]);
+console.log(friends.length);
+
+console.log(friends[friends.length -1]);
+console.log(friends[friends.length -2]);
+
+friends[2] = 'Jim';
+console.log(friends);
+
+friends[3] = 'Sarah';
+console.log(friends);
+
+const firstName = 'Iain';
+const iain = [firstName, 'Aitken', 2021 - 1980, 'programmer', friends];
+console.log(iain);
+
+const calcAge = function (birthYear) {
+  return 2021 - birthYear;
+}
+
+const y = [1980, 1967, 2002, 2010, 2018];
+console.log(y + 10);
+
+const age1 = calcAge(y[0]);
+const age2 = calcAge(y[1]);
+const age3 = calcAge(y[2]);
+const age4 = calcAge(y[3]);
+const age5 = calcAge(y[4]);
+console.log(age1, age2, age3, age4, age5);
+
+const ages = [calcAge(y[0]), calcAge(y[1]), calcAge(y[2]), calcAge(y[3]), calcAge(y[4])];
+console.log(ages);
 
 /*
 
