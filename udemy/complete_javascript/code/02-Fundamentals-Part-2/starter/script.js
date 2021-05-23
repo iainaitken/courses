@@ -10,6 +10,27 @@ const iain = {
   friends: ['Dan', 'Peter', 'Steven'],
 }
 
+console.log(iain.firstName);
+console.log(iain.lastName);
+console.log(iain.age);
+console.log(iain.job);
+console.log(iain.friends);
+
+console.log(iain['firstName']);
+console.log(iain['lastName']);
+console.log(iain['age']);
+console.log(iain['job']);
+console.log(iain['friends']);
+
+iain.eyeColour = 'blue';
+console.log(iain.eyeColour);
+
+iain['shoeSize'] = 10;
+console.log(iain['shoeSize']);
+console.log(iain.shoeSize);
+
+console.log(`${iain.firstName} has ${iain.friends.length} friends, and his best friend is ${iain.friends[0]}.`);
+
 /*
 
 const friends = ['Dan', 'Steven', 'Peter'];
