@@ -93,3 +93,13 @@ if (!neighbours.includes('Germany')) {
 const index = neighbours.indexOf('France');
 neighbours[index] = 'cheeseEatingSurrenderMonkeys';
 console.log(neighbours);
+
+// Introduction to Objects
+
+const myCountry = {
+  name: 'Germany',
+  population: 83,
+  capital: 'Berlin',
+  language: 'German',
+  neighbours: ['Denmark', 'Netherlands', 'Belgium', 'Luxembourg', 'France', 'Switzerland', 'Austria', 'Czechia', 'Poland'],
+}

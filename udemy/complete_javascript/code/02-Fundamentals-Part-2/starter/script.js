@@ -2,6 +2,16 @@
 
 console.log('------------Lesson------------');
 
+const iain = {
+  firstName: 'Iain',
+  lastName: 'Aitken',
+  age: 2021 - 1980,
+  job: 'programmer',
+  friends: ['Dan', 'Peter', 'Steven'],
+}
+
+/*
+
 const friends = ['Dan', 'Steven', 'Peter'];
 let newLength = friends.push('Sarah');
 console.log(friends);
@@ -23,8 +33,6 @@ console.log(friends.indexOf('Dan'));
 
 console.log(friends.includes('Peter'));
 console.log(friends.includes('Pete'));
-
-/*
 
 const friends = ['Dan', 'Steven', 'Peter'];
 console.log(friends);
