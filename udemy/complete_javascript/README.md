@@ -46,19 +46,19 @@
 
 ### Section 3: JavaScript Fundamentals: Part 2
 
-31. Section Intro
-32. Activating Strict Mode
-33. Functions
-34. Function Declarations vs. Expressions
-35. Arrow Functions
-36. Functions Calling Other Functions
-37. Reviewing Functions
+31. [Section Intro](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-3/032-strict-mode.md)
+32. [Activating Strict Mode](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-3/033-functions.md)
+33. [Functions](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-3/033-functions.md)
+34. [Function Declarations vs. Expressions](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-3/034-function-declarations-vs-expressions.md)
+35. [Arrow Functions](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-3/035-arrow-functions.md)
+36. [Functions Calling Other Functions](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-3/036-functions-calling-other-functions.md)
+37. [Reviewing Functions](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-3/037-reviewing-functions.md)
 38. Coding Challenge #3.1
-39. Introduction to Arrays
-40. Basic Array Operations (Methods)
-41. Coding CHallenge #3.2
-42. Introduction to Objects
-43. Dot vs. Bracket Notation
+39. [Introduction to Arrays](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-3/039-introduction-to-arrays.md)
+40. [Basic Array Operations (Methods)](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-3/040-basic-array-operations.md)
+41. [Coding Challenge #3.2](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-3/041-coding-challenge.md)
+42. [Introduction to Objects](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-3/042-introduction-to-objects.md)
+43. [Dot vs. Bracket Notation](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-3/043-dot-vs-bracket-notation.md)
 44. Object Methods
 45. Coding Challenge #3.3
 46. Iteration: The For Loop
