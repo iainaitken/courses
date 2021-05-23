@@ -79,3 +79,17 @@ const percentages = [
   percentageOfWorld1(58)
 ];
 console.log(percentages);
+
+// Basic Array Operations (Methods)
+
+const neighbours = new Array('Denmark', 'Netherlands', 'Belgium', 'Luxembourg', 'France', 'Switzerland', 'Austria', 'Czechia', 'Poland');
+neighbours.push('Utopia');
+neighbours.pop();
+
+if (!neighbours.includes('Germany')) {
+  console.log("Probably not a Central European Country 😃");
+}
+
+const index = neighbours.indexOf('France');
+neighbours[index] = 'cheeseEatingSurrenderMonkeys';
+console.log(neighbours);

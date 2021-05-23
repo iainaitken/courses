@@ -3,6 +3,30 @@
 console.log('------------Lesson------------');
 
 const friends = ['Dan', 'Steven', 'Peter'];
+let newLength = friends.push('Sarah');
+console.log(friends);
+console.log(newLength);
+
+newLength = friends.unshift('John');
+console.log(friends);
+console.log(newLength);
+
+let returnedElement = friends.pop();
+console.log(friends);
+console.log(returnedElement); 
+
+returnedElement = friends.shift();
+console.log(friends);
+console.log(returnedElement);
+
+console.log(friends.indexOf('Dan'));
+
+console.log(friends.includes('Peter'));
+console.log(friends.includes('Pete'));
+
+/*
+
+const friends = ['Dan', 'Steven', 'Peter'];
 console.log(friends);
 
 const years = new Array(1991, 1992, 1993, 1995, 2001);
@@ -41,8 +65,6 @@ console.log(age1, age2, age3, age4, age5);
 
 const ages = [calcAge(y[0]), calcAge(y[1]), calcAge(y[2]), calcAge(y[3]), calcAge(y[4])];
 console.log(ages);
-
-/*
 
 const calcAge = function(birthYear) {
   return 2021 - birthYear;
