@@ -2,6 +2,31 @@
 
 console.log('------------Lesson------------');
 
+
+const iain = {
+  firstName: 'Iain',
+  lastName: 'Aitken',
+  birthYear: 1980,
+  job: 'programmer',
+  friends: ['Dan', 'Peter', 'Steven'],
+  hasDriversLicence: true,
+
+  calcAge: function () {
+    this.age = 2021 - this.birthYear;
+    return this.age;
+  },
+  getSummary: function () {
+    return `${this.firstName} is a ${this.calcAge()}-year old ${this.job}, and he has ${this.hasDriversLicence ? 'a' : 'no'} driver's licence.`;
+  },
+}
+
+console.log(iain.calcAge());
+console.log(iain.age);
+
+console.log(iain.getSummary());
+
+/*
+
 const iain = {
   firstName: 'Iain',
   lastName: 'Aitken',
@@ -30,8 +55,6 @@ console.log(iain['shoeSize']);
 console.log(iain.shoeSize);
 
 console.log(`${iain.firstName} has ${iain.friends.length} friends, and his best friend is ${iain.friends[0]}.`);
-
-/*
 
 const friends = ['Dan', 'Steven', 'Peter'];
 let newLength = friends.push('Sarah');
