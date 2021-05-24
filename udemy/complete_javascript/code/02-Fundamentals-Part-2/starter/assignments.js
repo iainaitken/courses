@@ -163,3 +163,15 @@ for(let i = 0; i < l; i++) {
     console.log(`Neighbour: ${listOfNeighbours[i][j]}`);
   }
 }
+
+// The While Loop
+
+const percentages3 = [];
+let i = 0;
+length = populations.length;
+while(i < length) {
+  percentages3.push(percentageOfWorld1(populations[i]));
+  i++;
+}
+console.log(percentages3);
+
