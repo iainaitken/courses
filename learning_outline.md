@@ -47,7 +47,7 @@ Consider further udemy courses - UML
 - [x]  Section 1
 - [x]  Section 2
 - [x]  Section 3
-- [ ]  Section 4
+- [x]  Section 4
 - [ ]  Section 5
 - [ ]  Section 6
 - [ ]  Section 7
