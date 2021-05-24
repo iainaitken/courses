@@ -2,6 +2,11 @@
 
 console.log('------------Lesson------------');
 
+for(let rep = 1; rep <= 10; rep++) {
+  console.log(`lifting weights repetition ${rep} 🏋🏻‍♂️`);
+}
+
+/*
 
 const iain = {
   firstName: 'Iain',
@@ -24,8 +29,6 @@ console.log(iain.calcAge());
 console.log(iain.age);
 
 console.log(iain.getSummary());
-
-/*
 
 const iain = {
   firstName: 'Iain',
