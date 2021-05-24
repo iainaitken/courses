@@ -2,11 +2,56 @@
 
 console.log('------------Lesson------------');
 
+const iain = [
+  'Iain',
+  'Aitken',
+  2021 - 1980,
+  'programmer',
+  ['Dan', 'Peter', 'Steven'],
+];
+let length = iain.length;
+
+for(let i = 0; i < length; i++) {
+  console.log(iain[i], typeof iain[i]);
+}
+
+const types = [];
+
+for(let i = 0; i < length; i++) {
+  types.push(typeof iain[i]);
+}
+console.log(types);
+
+const years = [1991, 2007, 1969, 2020];
+const ages = [];
+
+length = years.length;
+
+for(let i = 0; i < length; i++) {
+  ages.push(2021 - years[i]);
+}
+console.log(ages);
+
+console.log('--Only Strings--');
+
+for(let i = 0; i < length; i++) {
+  if (typeof iain[i] !== 'string') continue;
+  console.log(iain[i], typeof iain[i]);
+}
+
+console.log('--Break with Number--');
+
+for(let i = 0; i < length; i++) {
+  if (typeof iain[i] === 'number') break;
+  console.log(iain[i], typeof iain[i]);
+}
+
+
+/*
+
 for(let rep = 1; rep <= 10; rep++) {
   console.log(`lifting weights repetition ${rep} 🏋🏻‍♂️`);
 }
-
-/*
 
 const iain = {
   firstName: 'Iain',
