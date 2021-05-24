@@ -151,3 +151,15 @@ for(let i = 0; i < length; i++) {
 }
 console.log(percentages);
 console.log(percentages2);
+
+// Looping backwards and nested loops
+
+const listOfNeighbours = new Array(['Canada', 'Mexico'], ['Spain'], ['Norway', 'Sweden', 'Russia']);
+
+let l = listOfNeighbours.length;
+
+for(let i = 0; i < l; i++) {
+  for(let j = 0; j < listOfNeighbours[i].length; j++) {
+    console.log(`Neighbour: ${listOfNeighbours[i][j]}`);
+  }
+}

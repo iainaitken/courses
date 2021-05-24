@@ -9,6 +9,29 @@ const iain = [
   'programmer',
   ['Dan', 'Peter', 'Steven'],
 ];
+
+let length = iain.length - 1;
+
+for(let i = length; i >= 0; i--) {
+  console.log(iain[i]);
+}
+
+for(let exercise = 1; exercise <= 3; exercise++) {
+  console.log(`---------Starting Exercise ${exercise}---------`);
+  for(let rep = 1; rep <= 5; rep++) {
+    console.log(`rep ${rep}`);
+  };
+}
+
+/*
+
+const iain = [
+  'Iain',
+  'Aitken',
+  2021 - 1980,
+  'programmer',
+  ['Dan', 'Peter', 'Steven'],
+];
 let length = iain.length;
 
 for(let i = 0; i < length; i++) {
@@ -45,9 +68,6 @@ for(let i = 0; i < length; i++) {
   if (typeof iain[i] === 'number') break;
   console.log(iain[i], typeof iain[i]);
 }
-
-
-/*
 
 for(let rep = 1; rep <= 10; rep++) {
   console.log(`lifting weights repetition ${rep} 🏋🏻‍♂️`);
