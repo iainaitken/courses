@@ -53,19 +53,19 @@
 35. [Arrow Functions](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-3/035-arrow-functions.md)
 36. [Functions Calling Other Functions](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-3/036-functions-calling-other-functions.md)
 37. [Reviewing Functions](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-3/037-reviewing-functions.md)
-38. Coding Challenge #3.1
+38. [Coding Challenge #3.1](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-3/038-coding-challenge.md)
 39. [Introduction to Arrays](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-3/039-introduction-to-arrays.md)
 40. [Basic Array Operations (Methods)](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-3/040-basic-array-operations.md)
 41. [Coding Challenge #3.2](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-3/041-coding-challenge.md)
 42. [Introduction to Objects](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-3/042-introduction-to-objects.md)
 43. [Dot vs. Bracket Notation](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-3/043-dot-vs-bracket-notation.md)
-44. Object Methods
-45. Coding Challenge #3.3
-46. Iteration: The For Loop
-47. Looping Arrays, Breaking and Continuing
-48. Looping Backwards and Forwards in Loops
-49. The while Loop
-50. Coding Challenge #3.4
+44. [Object Methods](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-3/044-object-methods.md)
+45. [Coding Challenge #3.3](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-3/045-coding-challenge.md)
+46. [Iteration: The For Loop](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-3/046-iteration-the-for-loop.md)
+47. [Looping Arrays, Breaking and Continuing](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-3/047-looping-arrays-breaking-and-continuing.md)
+48. [Looping Backwards and Forwards in Loops](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-3/048-looping-backwards-and-nested-loops.md)
+49. [The while Loop](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-3/049-the-while-loop.md)
+50. [Coding Challenge #3.4](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-3/050-coding-challenge.md)
 
 ### Section 4: How to Navigate This Course
 
