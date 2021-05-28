@@ -10,18 +10,18 @@
 
 ### Section 1: Welcome, Welcome, Welcome!
 
-01.  Course Structure and Projects
-02.  [Watch Before You Start!](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-1/002-watch-before-you-start.md)
-03.  Read Before You Start!
-04.  Migration Guide to v2 + Old Course
-05.  Setting Up Our Code Editor
+1.  Course Structure and Projects
+2.  [Watch Before You Start!](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-1/002-watch-before-you-start.md)
+3.  Read Before You Start!
+4.  Migration Guide to v2 + Old Course
+5.  Setting Up Our Code Editor
 
 ### Section 2: JavaScript Fundamentals: Part 1
 
-06. Section Intro
-07. [Hello World!](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/007-hello-world.md)
-08. [A Brief Introduction to JavaScript](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/008-introduction-to-javascript.md)
-09. [Linking a JavaScript File](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/009-linking-a-javascript-file.md)
+6.  Section Intro
+7.  [Hello World!](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/007-hello-world.md)
+8.  [A Brief Introduction to JavaScript](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/008-introduction-to-javascript.md)
+9.  [Linking a JavaScript File](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/009-linking-a-javascript-file.md)
 10. [Values and Variables](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/010-values-and-variables.md)
 11. Practice Assignments
 12. [Data Types](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-2/012-data-types.md)
@@ -130,7 +130,7 @@
 97. The this Keyword in Practice
 98. Regular Functions vs. Arrow FUnctions
 99. Primitives vs. Objects (Primitive vs. Reference Types)
-100. Primitives vs. Objects in Practice
+100.  Primitives vs. Objects in Practice
 
 ### Section 9: Data Structure, Modern Operators and Strings
 
