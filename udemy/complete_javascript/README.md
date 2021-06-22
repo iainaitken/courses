@@ -76,14 +76,14 @@
 
 53. Section Intro
 54. Section Roadmap
-55. Setting up Prettier and VS Code
+55. [Setting up Prettier and VS Code](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-5/055-prettier-and-vs-code.md)
 56. Installing Node.js and Setting Up a Dev Environment
-57. Learning How to Code
-58. How to Think Like a Developer: Become a Problem Solver!
+57. [Learning How to Code](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-5/057-learning-how-to-code.md)
+58. [How to Think Like a Developer: Become a Problem Solver!](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-5/058-how-to-solve-problems.md)
 59. Using Google, StackOverflow and MDN
-60. Debugging (Fixing Errors)
-61. Debugging with the Console and Breakpoints
-62. Coding Challenge #5.1
+60. [Debugging (Fixing Errors)](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-5/060-debugging.md)
+61. [Debugging with the Console and Breakpoints](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-5/061-debugging-with-the-console-and-breakpoints.md)
+62. [Coding Challenge #5.1](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-5/062-coding-challenge.md)
 
 ### Section 6: HTML & CSS Crash Course
 
