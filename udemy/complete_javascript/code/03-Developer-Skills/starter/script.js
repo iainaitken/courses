@@ -1,6 +1,8 @@
 // Remember, we're gonna use strict mode in all scripts now!
 "use strict";
 
+/*
+
 // Problem 2: My solution
 
 const calcAmplitude = function (temps1, temps2) {
@@ -74,8 +76,6 @@ console.log(amplitudeNew);
 
 // const amplitude = calcTempAmplitude(temperatures);
 // console.log(amplitude);
-
-/*
 
 const x = 23;
 if (x === 23) console.log(23);
