@@ -1,6 +1,45 @@
 // Remember, we're gonna use strict mode in all scripts now!
 "use strict";
 
+// const convertToKelvin = function () {
+//   const measurement = {
+//     type: "temp",
+//     unit: "celsius",
+//     value: prompt("Degrees celsius:"),
+//   };
+//   console.table(measurement);
+
+//   const kelvin = measurement.value + 273;
+//   return kelvin;
+// };
+
+// A. Identify the bug
+// const temp = convertToKelvin();
+// console.log(temp); // If 10 is inputted at the prompt, the result is 10273, not 283 as expected
+
+// B. Find the bug
+
+// console.log(typeof temp); // This shows that temp is a string
+
+// The prompt will return a string. JavaScript, when faced with '10' + 273 will coerce 273 to a string and concatenate them, producing 10273
+// Can also log "measurement" to the console in the function, which shows the object's properties, where you will see that "value" is a string
+
+// C. Fix the bug
+
+const convertToKelvin = function () {
+  const measurement = {
+    type: "temp",
+    unit: "celsius",
+    value: Number(prompt("Degrees celsius:")),
+  };
+  console.table(measurement);
+  debugger;
+  const kelvin = measurement.value + 273;
+  return kelvin;
+};
+
+console.log(convertToKelvin()); // Returns 283, as expected
+
 /*
 
 // Problem 2: My solution
