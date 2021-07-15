@@ -71,3 +71,23 @@ Note: if we use the following code then the event listener won't work, as JavaSc
 ```javascript
 overlay.addEventListener("click", closeModal());
 ```
+
+We can add event handlers to keypresses too. There are three possibilities:
+
+- keydown triggers once when a key is pressed.
+- keyup triggers once when a key is released.
+- keypress repeatedly triggers when a key is held down.
+
+If we want an event to occur globally then we add the event listener to the document rather than an element within the document. The code below will trigger when _any_ key is pressed:
+
+```javascript
+document.addEventListener("keydown");
+```
+
+When a key is pressed, JavaScript logs the event as an object, storing information about the event that we can then access. To access the event, we pass it into our function as an argument. As ever, 'event' is just a keyword - commonly, the letter e is used.
+
+```javascript
+document.addEventListener("keydown", function (event) {
+  console.log(event);
+});
+```
