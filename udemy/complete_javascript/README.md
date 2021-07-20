@@ -97,19 +97,19 @@
 
 68. Section Intro
 69. Section Roadmap
-70. PROJECT #7.1: Guess My Number!
-71. What's the DOM and DOM Manipulation
-72. Selecting and Manipulating Elements
-73. Handling Click Events
-74. Implementing the Game Logic
+70. [PROJECT #7.1: Guess My Number!](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-7/070-guess-my-number.md)
+71. [What's the DOM and DOM Manipulation](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-7/071-manipulating-the-DOM.md)
+72. [Selecting and Manipulating Elements](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-7/072-selecting-and-manipulating-elements.md)
+73. [Handling Click Events](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-7/073-handling-click-events.md)
+74. [Implementing the Game Logic](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-7/074-implementing-the-game-logic.md)
 75. Manipulating CSS Styles
 76. Coding Challenge #7.1
 77. Implementing Highscores
 78. Refactoring Our Code: The DRY Principle
-79. PROJECT #7.2: Modal Window
+79. [PROJECT #7.2: Modal Window](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-7/079-modal-window.md)
 80. Working With Classes
 81. Handling an "Esc" Keypress Event
-82. PROJECT #7.3: Pig Game
+82. [PROJECT #7.3: Pig Game](https://github.com/iainaitken/courses/blob/main/udemy/complete_javascript/notes/section-7/082-project-2-pig-game.md)
 83. Rolling the Dice
 84. Switching the Active Player
 85. Holding Current Score
